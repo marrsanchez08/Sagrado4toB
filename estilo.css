@@ -1,0 +1,50 @@
+.body{
+    background-color: rgb(218, 218, 218);
+}
+
+.estilo_primertitulo{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+   
+}
+
+
+.estilo_segundotitulo{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.estilo_img{
+
+image-orientation: 20deg;
+align-items: center;
+}
+
+.estilo_objetivos{
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+a.link{
+
+color: black;
+}
+
+estilo_sns{
+    color: black;
+}
+
+a{
+    color: black;
+
+}
